@@ -1,2 +1,2 @@
 # My-Repository-
-Personal Repo for HNG Internship 5
+Personal Repository for HNG Internship 5
